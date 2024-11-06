@@ -33,7 +33,7 @@ Hieronder valt het samenbrengen van alle informatie en deze toe zien te passen i
 Jos & Trung zijn in ons team de BIM deskundigen.
 Samen zullen zij zorgen voor verschillende taken.
 Bijvoorbeeld: Wat is onze visie, missie en strategie?
-Ook zullen zij een productviesie formuleren en die koppelen aan de bedrijfsmissie.
+Ook zullen zij een productvisie formuleren en die koppelen aan de bedrijfsmissie.
 Ze gaan stakeholders identificeren en prioriteren (direct, indirect & kwaadwillend) en deze weergeven in een ui-diagram.
 Tevens zullen zij nadenken over de belangen van alle stakeholders.
 Bovendien wordt door het BIM team alle bovenstaande info in een mooi en duidelijk model weergegeven.
