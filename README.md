@@ -7,6 +7,7 @@ Wij zijn team Data Flow.
 Een project team studerend aan de HU. 
 Wij gaan de komende 10 weken aan de slag met dit project (de kerstvakantie is hierbij in gerekend). 
 
+<br />
 
 **Ons doel**
 
@@ -87,7 +88,7 @@ Daaronder valt bijvoorbeeld het zorgen voor een stabiele & veilige verbinding me
 > Info en contact
 
 Max - 1851665 - Max PT<br />
-Jos - 1864654 - *GitHub Username*<br />
+Jos - 1864654 - iZcantZcode<br />
 Gijs - 1882554 - *GitHub Username*<br />
 Harun - 1883163 - *Harshimet*<br />
 Trung - 1886361 - *GitHub Username*<br />
